@@ -23,6 +23,8 @@ Rice_Image_Classification
       |---Karacadag (3000 images)
 ```
 
+Clone this repository and extract the `.zip` file inside the Repo folder. Rest will be taken care of by the code. Don't forget to reverify the paths and other attributes inside the `config.yaml` file(s).
+
 ### Config File
 
 You can change the entries in the `config.yaml` file according to the configuration you want the code to run. I have used 1 configuration, which uses **ResNet-18** architecture. For other details, refer to the config file.
