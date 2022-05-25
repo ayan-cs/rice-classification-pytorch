@@ -1,0 +1,241 @@
+Epoch : 1
+
+Epoch : 1	train batch 150 completed
+Epoch : 1	train batch 300 completed
+Epoch : 1	train batch 450 completed
+Epoch : 1	train batch 600 completed
+Epoch : 1	train batch 750 completed
+Epoch : 1	train batch 900 completed
+train Loss: 0.0133	Accuracy: 0.9065
+Epoch : 1	val batch 150 completed
+val Loss: 0.0008	Accuracy: 0.9644
+
+Epoch : 2
+
+Epoch : 2	train batch 150 completed
+Epoch : 2	train batch 300 completed
+Epoch : 2	train batch 450 completed
+Epoch : 2	train batch 600 completed
+Epoch : 2	train batch 750 completed
+Epoch : 2	train batch 900 completed
+train Loss: 0.0053	Accuracy: 0.9536
+Epoch : 2	val batch 150 completed
+val Loss: 0.0013	Accuracy: 0.9681
+
+Epoch : 3
+
+Epoch : 3	train batch 150 completed
+Epoch : 3	train batch 300 completed
+Epoch : 3	train batch 450 completed
+Epoch : 3	train batch 600 completed
+Epoch : 3	train batch 750 completed
+Epoch : 3	train batch 900 completed
+train Loss: 0.0012	Accuracy: 0.9571
+Epoch : 3	val batch 150 completed
+val Loss: 0.0025	Accuracy: 0.9751
+
+Epoch : 4
+
+Epoch : 4	train batch 150 completed
+Epoch : 4	train batch 300 completed
+Epoch : 4	train batch 450 completed
+Epoch : 4	train batch 600 completed
+Epoch : 4	train batch 750 completed
+Epoch : 4	train batch 900 completed
+train Loss: 0.0020	Accuracy: 0.9612
+Epoch : 4	val batch 150 completed
+val Loss: 0.0023	Accuracy: 0.9763
+
+Epoch : 5
+
+Epoch : 5	train batch 150 completed
+Epoch : 5	train batch 300 completed
+Epoch : 5	train batch 450 completed
+Epoch : 5	train batch 600 completed
+Epoch : 5	train batch 750 completed
+Epoch : 5	train batch 900 completed
+train Loss: 0.0087	Accuracy: 0.9631
+Epoch : 5	val batch 150 completed
+val Loss: 0.0011	Accuracy: 0.9699
+
+Epoch : 6
+
+Epoch : 6	train batch 150 completed
+Epoch : 6	train batch 300 completed
+Epoch : 6	train batch 450 completed
+Epoch : 6	train batch 600 completed
+Epoch : 6	train batch 750 completed
+Epoch : 6	train batch 900 completed
+train Loss: 0.0028	Accuracy: 0.9651
+Epoch : 6	val batch 150 completed
+val Loss: 0.0013	Accuracy: 0.9734
+
+Epoch : 7
+
+Epoch : 7	train batch 150 completed
+Epoch : 7	train batch 300 completed
+Epoch : 7	train batch 450 completed
+Epoch : 7	train batch 600 completed
+Epoch : 7	train batch 750 completed
+Epoch : 7	train batch 900 completed
+train Loss: 0.0032	Accuracy: 0.9651
+Epoch : 7	val batch 150 completed
+val Loss: 0.0012	Accuracy: 0.9771
+
+Epoch : 8
+
+Epoch : 8	train batch 150 completed
+Epoch : 8	train batch 300 completed
+Epoch : 8	train batch 450 completed
+Epoch : 8	train batch 600 completed
+Epoch : 8	train batch 750 completed
+Epoch : 8	train batch 900 completed
+train Loss: 0.0084	Accuracy: 0.9721
+Epoch : 8	val batch 150 completed
+val Loss: 0.0013	Accuracy: 0.9781
+
+Epoch : 9
+
+Epoch : 9	train batch 150 completed
+Epoch : 9	train batch 300 completed
+Epoch : 9	train batch 450 completed
+Epoch : 9	train batch 600 completed
+Epoch : 9	train batch 750 completed
+Epoch : 9	train batch 900 completed
+train Loss: 0.0012	Accuracy: 0.9725
+Epoch : 9	val batch 150 completed
+val Loss: 0.0012	Accuracy: 0.9759
+
+Epoch : 10
+
+Epoch : 10	train batch 150 completed
+Epoch : 10	train batch 300 completed
+Epoch : 10	train batch 450 completed
+Epoch : 10	train batch 600 completed
+Epoch : 10	train batch 750 completed
+Epoch : 10	train batch 900 completed
+train Loss: 0.0028	Accuracy: 0.9735
+Epoch : 10	val batch 150 completed
+val Loss: 0.0016	Accuracy: 0.9788
+
+Epoch : 11
+
+Epoch : 11	train batch 150 completed
+Epoch : 11	train batch 300 completed
+Epoch : 11	train batch 450 completed
+Epoch : 11	train batch 600 completed
+Epoch : 11	train batch 750 completed
+Epoch : 11	train batch 900 completed
+train Loss: 0.0022	Accuracy: 0.9740
+Epoch : 11	val batch 150 completed
+val Loss: 0.0012	Accuracy: 0.9778
+
+Epoch : 12
+
+Epoch : 12	train batch 150 completed
+Epoch : 12	train batch 300 completed
+Epoch : 12	train batch 450 completed
+Epoch : 12	train batch 600 completed
+Epoch : 12	train batch 750 completed
+Epoch : 12	train batch 900 completed
+train Loss: 0.0119	Accuracy: 0.9737
+Epoch : 12	val batch 150 completed
+val Loss: 0.0016	Accuracy: 0.9785
+
+Epoch : 13
+
+Epoch : 13	train batch 150 completed
+Epoch : 13	train batch 300 completed
+Epoch : 13	train batch 450 completed
+Epoch : 13	train batch 600 completed
+Epoch : 13	train batch 750 completed
+Epoch : 13	train batch 900 completed
+train Loss: 0.0061	Accuracy: 0.9747
+Epoch : 13	val batch 150 completed
+val Loss: 0.0011	Accuracy: 0.9775
+
+Epoch : 14
+
+Epoch : 14	train batch 150 completed
+Epoch : 14	train batch 300 completed
+Epoch : 14	train batch 450 completed
+Epoch : 14	train batch 600 completed
+Epoch : 14	train batch 750 completed
+Epoch : 14	train batch 900 completed
+train Loss: 0.0030	Accuracy: 0.9740
+Epoch : 14	val batch 150 completed
+val Loss: 0.0019	Accuracy: 0.9803
+
+Epoch : 15
+
+Epoch : 15	train batch 150 completed
+Epoch : 15	train batch 300 completed
+Epoch : 15	train batch 450 completed
+Epoch : 15	train batch 600 completed
+Epoch : 15	train batch 750 completed
+Epoch : 15	train batch 900 completed
+train Loss: 0.0005	Accuracy: 0.9753
+Epoch : 15	val batch 150 completed
+val Loss: 0.0011	Accuracy: 0.9783
+
+Epoch : 16
+
+Epoch : 16	train batch 150 completed
+Epoch : 16	train batch 300 completed
+Epoch : 16	train batch 450 completed
+Epoch : 16	train batch 600 completed
+Epoch : 16	train batch 750 completed
+Epoch : 16	train batch 900 completed
+train Loss: 0.0033	Accuracy: 0.9755
+Epoch : 16	val batch 150 completed
+val Loss: 0.0011	Accuracy: 0.9782
+
+Epoch : 17
+
+Epoch : 17	train batch 150 completed
+Epoch : 17	train batch 300 completed
+Epoch : 17	train batch 450 completed
+Epoch : 17	train batch 600 completed
+Epoch : 17	train batch 750 completed
+Epoch : 17	train batch 900 completed
+train Loss: 0.0031	Accuracy: 0.9755
+Epoch : 17	val batch 150 completed
+val Loss: 0.0012	Accuracy: 0.9786
+
+Epoch : 18
+
+Epoch : 18	train batch 150 completed
+Epoch : 18	train batch 300 completed
+Epoch : 18	train batch 450 completed
+Epoch : 18	train batch 600 completed
+Epoch : 18	train batch 750 completed
+Epoch : 18	train batch 900 completed
+train Loss: 0.0045	Accuracy: 0.9752
+Epoch : 18	val batch 150 completed
+val Loss: 0.0011	Accuracy: 0.9786
+
+Epoch : 19
+
+Epoch : 19	train batch 150 completed
+Epoch : 19	train batch 300 completed
+Epoch : 19	train batch 450 completed
+Epoch : 19	train batch 600 completed
+Epoch : 19	train batch 750 completed
+Epoch : 19	train batch 900 completed
+train Loss: 0.0008	Accuracy: 0.9753
+Epoch : 19	val batch 150 completed
+val Loss: 0.0010	Accuracy: 0.9782
+
+Epoch : 20
+
+Epoch : 20	train batch 150 completed
+Epoch : 20	train batch 300 completed
+Epoch : 20	train batch 450 completed
+Epoch : 20	train batch 600 completed
+Epoch : 20	train batch 750 completed
+Epoch : 20	train batch 900 completed
+train Loss: 0.0012	Accuracy: 0.9758
+Epoch : 20	val batch 150 completed
+val Loss: 0.0012	Accuracy: 0.9786
+
+Total time elapsed = 1168.786106399959 seconds
