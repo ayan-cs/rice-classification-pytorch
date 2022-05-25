@@ -36,12 +36,12 @@ You can change the entries in the `config.yaml` file according to the configurat
 
 - ResNet-18
 
-![Accuracy Curve](https://drive.google.com/file/d/1STCUbyiluDXe7ghrz6iQlT4H0XQvm371/view?usp=sharing)
+![Accuracy Curve](https://github.com/ayan-cs/rice-classification-pytorch/blob/main/Output%20curves/accuracy%20resnet-18.png)
 
-![Loss Curve](https://drive.google.com/file/d/1Ou-JMjc19D_TW0_rLzrRSlKIAxD1wydl/view?usp=sharing)
+![Loss Curve](https://github.com/ayan-cs/rice-classification-pytorch/blob/main/Output%20curves/loss%20resnet-18.png)
 
 - Rice CNN
 
-![Accuracy Curve](https://drive.google.com/file/d/1tfhL-fwgh_XHjk8lSQB_SOwrSnNA7tum/view?usp=sharing)
+![Accuracy Curve](https://github.com/ayan-cs/rice-classification-pytorch/blob/main/Output%20curves/accuracy%20-%20cnn%20rice.png)
 
-![Loss Curve](https://drive.google.com/file/d/1PiI2i7pLNNcU7no57mKy5g67pWC73qso/view?usp=sharing)
+![Loss Curve](https://github.com/ayan-cs/rice-classification-pytorch/blob/main/Output%20curves/loss%20-%20cnn%20rice.png)
