@@ -31,3 +31,17 @@ You can change the entries in the `config.yaml` file according to the configurat
 
 - Performed prediction using Pre-trained ResNet-18. Accuracy on Training data = 17.805 % and that on Validation/Test data = 19.793 %
 - Trained ResNet-18 from scratch using Training dataset for 20 epochs. **Train Accuracy = 99.95 % and Validation/Test Accuracy = 99.88 %**
+
+#### Accuracy and Loss Curves
+
+- ResNet-18
+
+![Accuracy Curve](https://drive.google.com/file/d/1STCUbyiluDXe7ghrz6iQlT4H0XQvm371/view?usp=sharing)
+
+![Loss Curve](https://drive.google.com/file/d/1Ou-JMjc19D_TW0_rLzrRSlKIAxD1wydl/view?usp=sharing)
+
+- Rice CNN
+
+![Accuracy Curve](https://drive.google.com/file/d/1tfhL-fwgh_XHjk8lSQB_SOwrSnNA7tum/view?usp=sharing)
+
+![Loss Curve](https://drive.google.com/file/d/1PiI2i7pLNNcU7no57mKy5g67pWC73qso/view?usp=sharing)
