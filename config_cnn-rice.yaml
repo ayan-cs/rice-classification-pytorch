@@ -1,0 +1,30 @@
+# Training params
+epoch : 20
+
+# Classifier
+model :
+  name : CNN_Rice
+
+# Optimizer
+optimizer :
+  name : Adam
+  lr : 0.001
+
+# Criterion
+loss_function :
+  name : CrossEntropyLoss
+
+# Scheduler
+scheduler :
+  name : StepLR
+  gamma : 0.1
+  step_size : 7
+
+# Dataset
+dataset :
+  path : "./Rice_Image_Dataset"
+  train_path : "./Rice_Image_Dataset/train"
+  test_path : "./Rice_Image_Dataset/test"
+  train_split : 0.8
+  batch_size : 64
+  shuffle : True
